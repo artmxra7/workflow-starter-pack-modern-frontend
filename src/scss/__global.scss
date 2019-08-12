@@ -1,0 +1,21 @@
+$bg-white : blue;
+
+
+
+
+
+// Font Style Global
+$color-title: white;
+$large: 30px;
+$thisBold: bold;
+
+body
+{
+  background-color: $bg-white;
+}
+.title
+{
+  color: $color-title;
+  font-size: $large;
+  font-weight: $thisBold;
+}
